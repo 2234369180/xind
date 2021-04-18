@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1023lianxi/1023lianxi.iml" filepath="$PROJECT_DIR$/1023lianxi/1023lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1024lianxi/1024lianxi.iml" filepath="$PROJECT_DIR$/1024lianxi/1024lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1027/1027.iml" filepath="$PROJECT_DIR$/1027/1027.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1028/1028.iml" filepath="$PROJECT_DIR$/1028/1028.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1029/1029.iml" filepath="$PROJECT_DIR$/1029/1029.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day03lianxi/Day03lianxi.iml" filepath="$PROJECT_DIR$/Day03lianxi/Day03lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day1022/Day1022.iml" filepath="$PROJECT_DIR$/Day1022/Day1022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day2lianxi/Day2lianxi.iml" filepath="$PROJECT_DIR$/Day2lianxi/Day2lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day4lianxi/Day4lianxi.iml" filepath="$PROJECT_DIR$/Day4lianxi/Day4lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day5lianxi/Day5lianxi.iml" filepath="$PROJECT_DIR$/Day5lianxi/Day5lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day6lianxi/Day6lianxi.iml" filepath="$PROJECT_DIR$/Day6lianxi/Day6lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HWDay01/HWDay01.iml" filepath="$PROJECT_DIR$/HWDay01/HWDay01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ceshilei/ceshilei.iml" filepath="$PROJECT_DIR$/ceshilei/ceshilei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01lianxi/day01lianxi.iml" filepath="$PROJECT_DIR$/day01lianxi/day01lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1026lianxi/day1026lianxi.iml" filepath="$PROJECT_DIR$/day1026lianxi/day1026lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dianshangxiangmu/dianshangxiangmu.iml" filepath="$PROJECT_DIR$/dianshangxiangmu/dianshangxiangmu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fffffff/fffffff.iml" filepath="$PROJECT_DIR$/fffffff/fffffff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fuxizhishidian/fixizhishidian.iml" filepath="$PROJECT_DIR$/fuxizhishidian/fixizhishidian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sejinjie.iml" filepath="$PROJECT_DIR$/sejinjie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiyong/shiyong.iml" filepath="$PROJECT_DIR$/shiyong/shiyong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tushuguan/tushuguan.iml" filepath="$PROJECT_DIR$/tushuguan/tushuguan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ww/ww.iml" filepath="$PROJECT_DIR$/ww/ww.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiajibalian/xiajibalian.iml" filepath="$PROJECT_DIR$/xiajibalian/xiajibalian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhizaoshang/zhizaoshang.iml" filepath="$PROJECT_DIR$/zhizaoshang/zhizaoshang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zixi/zixi.iml" filepath="$PROJECT_DIR$/zixi/zixi.iml" />
+    </modules>
+  </component>
+</project>

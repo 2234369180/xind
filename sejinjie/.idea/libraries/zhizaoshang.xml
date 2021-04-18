@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zhizaoshang">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shiyong/src/zhizaoshang.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
